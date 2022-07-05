@@ -1,2 +1,2 @@
 # Elections_Dapp
-<img src="Screenshot.png">
+<img src="./Elections_Dapp/Screenshot.png">
